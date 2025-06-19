@@ -81,7 +81,7 @@ Feel free to fork and modify it!
 
 **Samdeep Sharma**  
 Final Year CSE Student at Thapar Institute  
-[LinkedIn](https://www.linkedin.com/in/sangeet-kumar)
+[LinkedIn](https://www.linkedin.com/in/samdeepsharma)
 
 **Sangeet Kumar**  
 Final Year CSE Student at Thapar Institute  
