@@ -77,7 +77,7 @@ Feel free to fork and modify it!
 
 ---
 
-## 👨‍💻 Develpers
+## 👨‍💻 Developers
 
 **Samdeep Sharma**  
 Final Year CSE Student at Thapar Institute  
