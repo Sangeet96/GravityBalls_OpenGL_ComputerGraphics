@@ -42,14 +42,20 @@ The simulation starts automatically, but you can **interact and modify parameter
 
 | Key | Action |
 |-----|--------|
-| `Q` / `E` | Decrease / Increase Gravity |
-| `A` / `D` | Decrease / Increase Friction |
-| `Z` / `C` | Decrease / Increase Elasticity |
-| `4` / `6` | Decrease / Increase Entropy |
+| `2` / `8` | Decrease / Increase Gravity |
+| `4` / `6` | Decrease / Increase Friction |
+| `A` / `D` | Decrease / Increase Elasticity |
+| `Q` / `E` | Decrease / Increase Entropy |
 | `<` / `>` | Decrease / Increase Time Scale |
+| `N` | Add New Balls |
 | `M` | Toggle Magnetize Walls |
 | `B` | Toggle Black Hole Mode |
 | `G` | Toggle Cursor Gravity |
+| `+` / `-` | Zoom In/Out |
+| `SPACE` | Pause/Play |
+| `R` | Reset |
+| `C` | Clear |
+| `ESC` | Quit |
 | (Shown on top of simulation window) | Real-time updated values: Gravity, Friction, Elasticity, Ball Count, Entropy, Time Scale, etc. |
 
 You can also customize the **number of balls** and **initial settings** directly in `main.cpp` before compiling.
