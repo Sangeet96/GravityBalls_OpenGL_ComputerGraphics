@@ -85,7 +85,7 @@ Final Year CSE Student at Thapar Institute
 
 **Sangeet Kumar**  
 Final Year CSE Student at Thapar Institute  
-[LinkedIn]([https://www.linkedin.com/in/sangeet-kumar](https://linkedin.com/in/sangeet-kumar-b21702279))
+[LinkedIn]([https://linkedin.com/in/sangeet-kumar-b21702279])
 
 ---
 
