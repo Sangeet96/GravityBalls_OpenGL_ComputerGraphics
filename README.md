@@ -64,12 +64,6 @@ You can also customize the **number of balls** and **initial settings** directly
 
 ---
 
-## 📸 Demo
-
-(You can attach a `.gif`, `.mp4`, or image of the simulation here)
-
----
-
 ## 📜 License
 
 This project is for educational purposes and open to contributions.  
